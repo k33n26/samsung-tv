@@ -2,10 +2,7 @@ import requests
 import json
 import os
 
-# Örnek Samsung TV Plus API endpoint'i veya topluluk kaynaklı güncel JSON akış listesi
-# NOT: İlgilendiğiniz bölgenin (US, GB vb.) açık API / JSON playlist kaynağını buraya bağlayabilirsiniz.
-SAMSUNG_CHANNEL_DATA_URL = "https://raw.githubusercontent.com/matthuisman/ip-tv/main/samsung/us.json" # Örnek kaynak
-
+SAMSUNG_CHANNEL_DATA_URL = "https://raw.githubusercontent.com/matthuisman/ip-tv/main/samsung/us.json"
 OUTPUT_FILE = "samsung_tv_plus.m3u"
 
 def fetch_channels():
@@ -16,9 +13,8 @@ def fetch_channels():
     print("Samsung TV Plus kanal verileri çekiliyor...")
     response = requests.get(SAMSUNG_CHANNEL_DATA_URL, headers=headers)
     
-    if response.status_code != 200:
-        print(f"Hata: Veri çekilemedi (Status Code: {response.status_code})")
-        return
+    # Hata durumunda işlemi durdur (raise_for_status)
+    response.raise_for_status()
     
     channels = response.json()
     
