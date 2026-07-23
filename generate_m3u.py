@@ -9,7 +9,7 @@ PLAYBACK_URL = "https://jmp2.uk/{slug}"
 OUTPUT_FILE = "samsung_tv_plus.m3u"
 
 # İndirmek istediğin bölgeler (örnek: 'us', 'gb', 'all')
-TARGET_REGIONS = ["us"]
+TARGET_REGIONS = ["all"]
 
 def fetch_and_generate_m3u():
     headers = {
