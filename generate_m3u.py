@@ -1,46 +1,26 @@
 import requests
-import json
 import os
 
-# Güncel Samsung TV Plus JSON kaynak adresi
-SAMSUNG_CHANNEL_DATA_URL = "https://i.mjh.nz/SamsungTVPlus/us.json"
+# Doğrudan çalışan M3U8 kaynağı (Örn: us.m3u8, gb.m3u8 veya tüm kanallar için all.m3u8)
+SAMSUNG_M3U_URL = "https://i.mjh.nz/SamsungTVPlus/us.m3u8"
 OUTPUT_FILE = "samsung_tv_plus.m3u"
 
-def fetch_channels():
+def fetch_m3u():
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     }
     
-    print("Samsung TV Plus kanal verileri çekiliyor...")
-    response = requests.get(SAMSUNG_CHANNEL_DATA_URL, headers=headers)
+    print(f"Samsung TV Plus M3U8 listesi indiriliyor: {SAMSUNG_M3U_URL}")
+    response = requests.get(SAMSUNG_M3U_URL, headers=headers)
     
-    # HTTP hatası varsa (404, 500 vb.) işlemi durdurur
+    # HTTP hatası varsa işlemi durdurur
     response.raise_for_status()
     
-    data = response.json()
-    # Bazı API yapılarında kanallar 'channels' anahtarı altında gelir
-    channels = data.get("channels", data)
-    
-    m3u_content = "#EXTM3U x-tvg-url=\"https://i.mjh.nz/SamsungTVPlus/us.xml\"\n\n"
-    
-    count = 0
-    for channel_id, ch in channels.items():
-        name = ch.get("name", "Unknown Channel")
-        logo = ch.get("logo", "")
-        group = ch.get("group", "Samsung TV Plus")
-        stream_url = ch.get("url", "")
-        
-        if not stream_url:
-            continue
-            
-        m3u_content += f'#EXTINF:-1 tvg-id="{channel_id}" tvg-name="{name}" tvg-logo="{logo}" group-title="{group}",{name}\n'
-        m3u_content += f'{stream_url}\n\n'
-        count += 1
-
+    # İndirilen M3U içeriğini dosyaya kaydet
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        f.write(m3u_content)
+        f.write(response.text)
         
-    print(f"Başarılı! Toplam {count} kanal '{OUTPUT_FILE}' dosyasına yazıldı.")
+    print(f"Başarılı! Liste '{OUTPUT_FILE}' dosyasına yazıldı.")
 
 if __name__ == "__main__":
-    fetch_channels()
+    fetch_m3u()
