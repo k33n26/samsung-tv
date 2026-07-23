@@ -2,7 +2,8 @@ import requests
 import json
 import os
 
-SAMSUNG_CHANNEL_DATA_URL = "https://raw.githubusercontent.com/matthuisman/ip-tv/main/samsung/us.json"
+# Güncel Samsung TV Plus JSON kaynak adresi
+SAMSUNG_CHANNEL_DATA_URL = "https://i.mjh.nz/SamsungTVPlus/us.json"
 OUTPUT_FILE = "samsung_tv_plus.m3u"
 
 def fetch_channels():
@@ -13,12 +14,14 @@ def fetch_channels():
     print("Samsung TV Plus kanal verileri çekiliyor...")
     response = requests.get(SAMSUNG_CHANNEL_DATA_URL, headers=headers)
     
-    # Hata durumunda işlemi durdur (raise_for_status)
+    # HTTP hatası varsa (404, 500 vb.) işlemi durdurur
     response.raise_for_status()
     
-    channels = response.json()
+    data = response.json()
+    # Bazı API yapılarında kanallar 'channels' anahtarı altında gelir
+    channels = data.get("channels", data)
     
-    m3u_content = "#EXTM3U x-tvg-url=\"https://raw.githubusercontent.com/matthuisman/ip-tv/main/samsung/us.xml\"\n\n"
+    m3u_content = "#EXTM3U x-tvg-url=\"https://i.mjh.nz/SamsungTVPlus/us.xml\"\n\n"
     
     count = 0
     for channel_id, ch in channels.items():
