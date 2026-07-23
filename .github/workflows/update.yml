@@ -1,0 +1,36 @@
+name: Update Samsung TV M3U Playlist
+
+on:
+  schedule:
+    # Her 2 saatte bir çalışır (UTC zamanına göre)
+    - cron: '0 */2 * * *'
+  workflow_dispatch: # İstediğin zaman GitHub panelinden elle (manual) tetiklemek için
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Repoyu Klonla
+      uses: actions/checkout@v4
+
+    - name: Python Ortamını Kur
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x'
+
+    - name: Bağımlılıkları Yükle
+      run: |
+        python -m pip install --upgrade pip
+        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+    - name: Python Betiğini Çalıştır
+      run: python generate_m3u.py
+
+    - name: Değişiklikleri Commit ve Push Et
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add samsung_tv_plus.m3u
+        git diff-index --quiet HEAD || git commit -m "Auto update samsung_tv_plus.m3u [skip ci]"
+        git push
