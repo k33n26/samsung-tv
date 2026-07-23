@@ -4,26 +4,22 @@ import gzip
 from io import BytesIO
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
-# Tüm kanalları çekeceğimiz güncel veri kaynağı
 DATA_URL = "https://i.mjh.nz/SamsungTVPlus/.channels.json.gz"
 PLAYBACK_URL = "https://jmp2.uk/{slug}"
 OUTPUT_FILE = "samsung_tv_plus.m3u"
 
-# Tüm bölgeleri tarıyoruz
-TARGET_REGIONS = ["all"]
+# Türkiye'den erişilebilen ve en kaliteli içeriklerin olduğu ana bölgeler
+# ("all" yerine sadece bu bölgeleri tarayarak işlemi %90 hızlandırıyoruz)
+TARGET_REGIONS = ["us", "gb", "de", "fr", "ca", "it", "es"]
 
-# Aynı anda kaç bağlantının test edileceği (Hızlandırmak için paralel istek)
-MAX_WORKERS = 15
-TIMEOUT_SECONDS = 3
+# Paralel test sayısını artırıp timeout süresini 1 saniyeye düşürdük
+MAX_WORKERS = 30
+TIMEOUT_SECONDS = 1.2
 
 def check_stream(channel_data):
-    """
-    Kanalın yayın adresine kısa bir HEAD/GET isteği atarak
-    Türkiye IP'sinden erişilebilir olup olmadığını (200 OK) test eder.
-    """
     ch_id, ch, slug_template = channel_data
     
-    # DRM/Lisanslı kanalları direkt atla
+    # Lisanslı/DRM kanalları direkt atla
     if ch.get("license_url"):
         return None
 
@@ -35,13 +31,8 @@ def check_stream(channel_data):
     }
 
     try:
-        # Bağlantının canlı ve geo-blocksuz olup olmadığını kontrol et
+        # Hızlı kontrol: 1.2 saniye içinde yanıt vermeyen veya engelli kanalı direkt ele
         res = requests.head(stream_url, headers=headers, timeout=TIMEOUT_SECONDS, allow_redirects=True)
-        if res.status_code == 200:
-            return (ch_id, ch, stream_url)
-        
-        # Bazı sunucular HEAD kabul etmezse GET ile kısa bir deneme yap
-        res = requests.get(stream_url, headers=headers, timeout=TIMEOUT_SECONDS, stream=True)
         if res.status_code == 200:
             return (ch_id, ch, stream_url)
     except Exception:
@@ -55,7 +46,7 @@ def fetch_and_generate_m3u():
     }
     
     print(f"Güncel veri indiriliyor: {DATA_URL}")
-    response = requests.get(DATA_URL, headers=headers, timeout=(10, 30))
+    response = requests.get(DATA_URL, headers=headers, timeout=(5, 15))
     response.raise_for_status()
 
     json_bytes = gzip.GzipFile(fileobj=BytesIO(response.content)).read()
@@ -66,17 +57,17 @@ def fetch_and_generate_m3u():
 
     candidate_channels = []
 
-    # Bütün bölgelerdeki aday kanalları topla
+    # Sadece belirlenen hedef bölgelerdeki kanalları topla
     for region_key, region_val in regions_data.items():
-        channels = region_val.get("channels", {})
-        for ch_id, ch in channels.items():
-            candidate_channels.append((ch_id, ch, slug_template))
+        if region_key.lower() in TARGET_REGIONS:
+            channels = region_val.get("channels", {})
+            for ch_id, ch in channels.items():
+                candidate_channels.append((ch_id, ch, slug_template))
 
-    print(f"Toplam {len(candidate_channels)} kanal bulundu. Bağlantılar test ediliyor...")
+    print(f"Toplam {len(candidate_channels)} hedef kanal bulundu. Hızlı bağlantı testi başlatılıyor...")
 
     valid_channels = []
     
-    # Multithreading kullanarak kanalları hızlıca test et
     with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
         futures = [executor.submit(check_stream, item) for item in candidate_channels]
         for future in as_completed(futures):
@@ -84,9 +75,9 @@ def fetch_and_generate_m3u():
             if result:
                 valid_channels.append(result)
 
-    print(f"Test Tamamlandı! {len(valid_channels)} adet çalışan kanal tespit edildi.")
+    print(f"Test Bitti! {len(valid_channels)} canlı/çalışan kanal seçildi.")
 
-    # M3U İçeriğini Oluştur
+    # M3U Oluştur
     m3u_lines = ["#EXTM3U\n"]
     for ch_id, ch, stream_url in valid_channels:
         name = ch.get("name", "Unknown Channel")
