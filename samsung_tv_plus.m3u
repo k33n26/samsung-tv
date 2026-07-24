@@ -2441,9 +2441,6 @@ https://jmp2.uk/stvp-ES440000327
 #EXTINF:-1 tvg-id="ES2900001DQ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2900001DQ_20251013T053428SQUARE.png" group-title="Serie" tvg-chno="4246",BBC Series
 https://jmp2.uk/stvp-ES2900001DQ
 
-#EXTINF:-1 tvg-id="ES300002Y6" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300002Y6_20260421T123720SQUARE.png" group-title="Serie" tvg-chno="4250",Sony One Series Thriller
-https://jmp2.uk/stvp-ES300002Y6
-
 #EXTINF:-1 tvg-id="ES2900002JG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2900002JG_20250923T011554SQUARE.png" group-title="Serie" tvg-chno="4255",Los Gipsy Kings - Rakuten TV
 https://jmp2.uk/stvp-ES2900002JG
 
@@ -6395,7 +6392,7 @@ https://jmp2.uk/stvp-USBD17000025J
 #EXTINF:-1 tvg-id="USBD1200020Y4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200020Y4_20260325T191716SQUARE.png" group-title="Sports & Outdoors" tvg-chno="2491",Field & Stream
 https://jmp2.uk/stvp-USBD1200020Y4
 
-#EXTINF:-1 tvg-id="US1000014I6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1000014I6_20260723T231146SQUARE.png" group-title="Motor Sports" tvg-chno="1002",MotoAmerica TV
+#EXTINF:-1 tvg-id="US1000014I6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1000014I6_20260723T231146SQUARE.png" group-title="Motor Sports" tvg-chno="1001",MotoAmerica TV
 https://jmp2.uk/stvp-US1000014I6
 
 #EXTINF:-1 tvg-id="US700021SM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700021SM_20250505T232701SQUARE.png" group-title="Motor Sports" tvg-chno="2505",NASCAR Channel
