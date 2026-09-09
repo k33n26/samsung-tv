@@ -5831,14 +5831,23 @@ https://jmp2.uk/stvp-USBA300024TN
 #EXTINF:-1 tvg-id="USBD3000073N" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000073N_20260421T133724SQUARE.png" group-title="News & Opinion" tvg-chno="1119",Scripps News
 https://jmp2.uk/stvp-USBD3000073N
 
+#EXTINF:-1 tvg-id="USBC1000017D8" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1000017D8_20260421T143646SQUARE.png" group-title="News & Opinion" tvg-chno="1122",WSOC Charlotte
+https://jmp2.uk/stvp-USBC1000017D8
+
+#EXTINF:-1 tvg-id="US700004OA" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700004OA_20260421T143852SQUARE.png" group-title="News & Opinion" tvg-chno="1123",WBTV News
+https://jmp2.uk/stvp-US700004OA
+
+#EXTINF:-1 tvg-id="US1400004HN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400004HN_20260421T144031SQUARE.png" group-title="News & Opinion" tvg-chno="1124",WCNC
+https://jmp2.uk/stvp-US1400004HN
+
 #EXTINF:-1 tvg-id="USBD700003L7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700003L7_20250909T213109SQUARE.png" group-title="News & Opinion" tvg-chno="1130",FOX Weather
 https://jmp2.uk/stvp-USBD700003L7
 
 #EXTINF:-1 tvg-id="US50000551O" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US50000551O_20260421T133704SQUARE.png" group-title="News & Opinion" tvg-chno="1133",AccuWeather NOW
 https://jmp2.uk/stvp-US50000551O
 
-#EXTINF:-1 tvg-id="USBC1500009LD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1500009LD_20260421T133617SQUARE.png" group-title="News & Opinion" tvg-chno="1135",WeatherNation
-https://jmp2.uk/stvp-USBC1500009LD
+#EXTINF:-1 tvg-id="USBC3200001S5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3200001S5_20260421T144319SQUARE.png" group-title="News & Opinion" tvg-chno="1135",WN Charlotte
+https://jmp2.uk/stvp-USBC3200001S5
 
 #EXTINF:-1 tvg-id="US4000033L" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4000033L_20260421T133849SQUARE.png" group-title="News & Opinion" tvg-chno="1140",BBC News
 https://jmp2.uk/stvp-US4000033L
