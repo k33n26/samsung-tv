@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ATBD3700001EH" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD3700001EH_20261006T033701SQUARE.png" group-title="Entertainment" tvg-chno="4009",X-MAS Mix
+https://jmp2.uk/stvp-ATBD3700001EH
+
 #EXTINF:-1 tvg-id="AT1800008KG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT1800008KG_20260929T035658SQUARE.png" group-title="Entertainment" tvg-chno="4063",Bares für Rares
 https://jmp2.uk/stvp-AT1800008KG
 
@@ -263,6 +266,9 @@ https://jmp2.uk/stvp-ATAJ0500443A
 #EXTINF:-1 tvg-id="ATAK3504501A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAK3504501A_20250107T021829SQUARE.png" group-title="Food & Travel" tvg-chno="4521",Pluto TV Food
 https://jmp2.uk/stvp-ATAK3504501A
 
+#EXTINF:-1 tvg-id="AT28000027U" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT28000027U_20261006T033656SQUARE.png" group-title="Food & Travel" tvg-chno="4526",Stadt Land Kunst
+https://jmp2.uk/stvp-AT28000027U
+
 #EXTINF:-1 tvg-id="ATAJ0500428A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ0500428A_20250107T022005SQUARE.png" group-title="Food & Travel" tvg-chno="4531",Xplore
 https://jmp2.uk/stvp-ATAJ0500428A
 
@@ -353,7 +359,7 @@ https://jmp2.uk/stvp-AT2000010RT
 #EXTINF:-1 tvg-id="AT20000098I" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT20000098I_20260609T041752SQUARE.png" group-title="Musik & Ambient" tvg-chno="4765",Rainy Day Vibes
 https://jmp2.uk/stvp-AT20000098I
 
-#EXTINF:-1 tvg-id="AT2000011A3" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT2000011A3_20261006T033642SQUARE.png" group-title="Musik & Ambient" tvg-chno="4766",Spring Vibes
+#EXTINF:-1 tvg-id="AT2000011A3" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT2000011A3_20261006T033642SQUARE.png" group-title="Musik & Ambient" tvg-chno="4766",Fall Vibes
 https://jmp2.uk/stvp-AT2000011A3
 
 #EXTINF:-1 tvg-id="AT20000077X" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT20000077X_20260609T041729SQUARE.png" group-title="Musik & Ambient" tvg-chno="4767",Island Vibes
@@ -383,6 +389,9 @@ https://jmp2.uk/stvp-ATAJ700005T3
 #EXTINF:-1 tvg-id="AT4100002MY" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT4100002MY_20260120T031200SQUARE.png" group-title="Kids" tvg-chno="4808",Rabbids Invasion
 https://jmp2.uk/stvp-AT4100002MY
 
+#EXTINF:-1 tvg-id="AT1300001GT" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT1300001GT_20261006T033648SQUARE.png" group-title="Kids" tvg-chno="4810",Fix&Foxi und Freunde
+https://jmp2.uk/stvp-AT1300001GT
+
 #EXTINF:-1 tvg-id="ATAJ7000065Y" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ7000065Y_20250107T022016SQUARE.png" group-title="Kids" tvg-chno="4823",iCarly
 https://jmp2.uk/stvp-ATAJ7000065Y
 
@@ -392,7 +401,7 @@ https://jmp2.uk/stvp-ATAJ700004UZ
 #EXTINF:-1 tvg-id="ATAJ7000037N" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ7000037N_20250603T004823SQUARE.png" group-title="Kids" tvg-chno="4829",Nickelodeon Toons
 https://jmp2.uk/stvp-ATAJ7000037N
 
-#EXTINF:-1 tvg-id="AT2600007N2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT2600007N2_20261006T143931SQUARE.png" group-title="Filme" tvg-chno="4852",Family - Rakuten TV
+#EXTINF:-1 tvg-id="AT2600007N2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT2600007N2_20261006T143931SQUARE.png" group-title="Filme" tvg-chno="4852",100% Weihnachten - Rakuten TV
 https://jmp2.uk/stvp-AT2600007N2
 
 #EXTINF:-1 tvg-id="ATBA330002946" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA330002946_20250117T111941SQUARE.png" group-title="Filme" tvg-chno="4859",Moviedome Family
@@ -634,6 +643,9 @@ https://jmp2.uk/stvp-CAAJ27000079E
 
 #EXTINF:-1 tvg-id="CABD1200007HY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200007HY_20260421T140646SQUARE.png" group-title="Crime" tvg-chno="1808",True Crime Now
 https://jmp2.uk/stvp-CABD1200007HY
+
+#EXTINF:-1 tvg-id="CA26000068X" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA26000068X_20261006T050938SQUARE.png" group-title="Crime" tvg-chno="1817",Silent Witness & New Tricks
+https://jmp2.uk/stvp-CA26000068X
 
 #EXTINF:-1 tvg-id="CA4700015P1" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA4700015P1_20260915T034550SQUARE.png" group-title="Crime" tvg-chno="1820",Crime 360
 https://jmp2.uk/stvp-CA4700015P1
@@ -1145,7 +1157,7 @@ https://jmp2.uk/stvp-CABB2600018T4
 #EXTINF:-1 tvg-id="CABB2600017ZU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB2600017ZU_20260512T070144SQUARE.png" group-title="Music" tvg-chno="4319",XITE 80s Flashback
 https://jmp2.uk/stvp-CABB2600017ZU
 
-#EXTINF:-1 tvg-id="CABD17000043J" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD17000043J_20261006T050933SQUARE.png" group-title="Music" tvg-chno="4323",XITE Summer
+#EXTINF:-1 tvg-id="CABD17000043J" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD17000043J_20261006T050933SQUARE.png" group-title="Music" tvg-chno="4323",XITE The Beatles
 https://jmp2.uk/stvp-CABD17000043J
 
 #EXTINF:-1 tvg-id="CABD120001993" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD120001993_20260421T141129SQUARE.png" group-title="Music" tvg-chno="4328",XITE Country Today
@@ -1306,6 +1318,9 @@ https://jmp2.uk/stvp-CABB260002016
 
 #EXTINF:-1 tvg-id="CA3100004TG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA3100004TG_20260929T044628SQUARE.png" group-title="Ambiance" tvg-chno="4595",Halloween Vibes
 https://jmp2.uk/stvp-CA3100004TG
+
+#EXTINF:-1 tvg-id="CHBD3700001XS" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD3700001XS_20261006T033756SQUARE.png" group-title="Entertainment" tvg-chno="4009",X-MAS Mix
+https://jmp2.uk/stvp-CHBD3700001XS
 
 #EXTINF:-1 tvg-id="CH500002H2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH500002H2_20251209T125747SQUARE.png" group-title="Entertainment" tvg-chno="4040",RMC Story
 https://jmp2.uk/stvp-CH500002H2
@@ -1604,6 +1619,9 @@ https://jmp2.uk/stvp-CHAJ0500443A
 #EXTINF:-1 tvg-id="CHAK3504501A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHAK3504501A_20250107T025238SQUARE.png" group-title="Food & Travel" tvg-chno="4521",Pluto TV Food
 https://jmp2.uk/stvp-CHAK3504501A
 
+#EXTINF:-1 tvg-id="CH2800002MM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH2800002MM_20261006T033751SQUARE.png" group-title="Food & Travel" tvg-chno="4526",Stadt Land Kunst
+https://jmp2.uk/stvp-CH2800002MM
+
 #EXTINF:-1 tvg-id="CHBC40000027S" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBC40000027S_20250107T031454SQUARE.png" group-title="Food & Travel" tvg-chno="4538",Echappées belles & co [FR]
 https://jmp2.uk/stvp-CHBC40000027S
 
@@ -1694,7 +1712,7 @@ https://jmp2.uk/stvp-CH2100009KM
 #EXTINF:-1 tvg-id="CH21000081B" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH21000081B_20260609T042306SQUARE.png" group-title="Musik & Ambient" tvg-chno="4765",Rainy Day Vibes
 https://jmp2.uk/stvp-CH21000081B
 
-#EXTINF:-1 tvg-id="CH21000103W" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH21000103W_20261006T033736SQUARE.png" group-title="Musik & Ambient" tvg-chno="4766",Spring Vibes
+#EXTINF:-1 tvg-id="CH21000103W" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH21000103W_20261006T033736SQUARE.png" group-title="Musik & Ambient" tvg-chno="4766",Fall Vibes
 https://jmp2.uk/stvp-CH21000103W
 
 #EXTINF:-1 tvg-id="CH2100006ZQ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH2100006ZQ_20260609T042234SQUARE.png" group-title="Musik & Ambient" tvg-chno="4767",Island Vibes
@@ -1721,6 +1739,9 @@ https://jmp2.uk/stvp-CHAJ7000057P
 #EXTINF:-1 tvg-id="CH41000023N" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH41000023N_20260120T031218SQUARE.png" group-title="Kids" tvg-chno="4808",Les Lapins Crétins
 https://jmp2.uk/stvp-CH41000023N
 
+#EXTINF:-1 tvg-id="CH1300001XI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH1300001XI_20261006T033743SQUARE.png" group-title="Kids" tvg-chno="4810",Fix&Foxi und Freunde
+https://jmp2.uk/stvp-CH1300001XI
+
 #EXTINF:-1 tvg-id="CHAJ700006QR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHAJ700006QR_20250107T025417SQUARE.png" group-title="Kids" tvg-chno="4823",iCarly
 https://jmp2.uk/stvp-CHAJ700006QR
 
@@ -1730,7 +1751,7 @@ https://jmp2.uk/stvp-CHAJ700004GX
 #EXTINF:-1 tvg-id="CHAJ700003CV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHAJ700003CV_20250603T004835SQUARE.png" group-title="Kids" tvg-chno="4829",Nickelodeon Toons
 https://jmp2.uk/stvp-CHAJ700003CV
 
-#EXTINF:-1 tvg-id="CH26000056O" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH26000056O_20261006T143742SQUARE.png" group-title="Filme" tvg-chno="4852",Family - Rakuten TV
+#EXTINF:-1 tvg-id="CH26000056O" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH26000056O_20261006T143742SQUARE.png" group-title="Filme" tvg-chno="4852",100% Weihnachten - Rakuten TV
 https://jmp2.uk/stvp-CH26000056O
 
 #EXTINF:-1 tvg-id="CHBA3300030AJ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA3300030AJ_20250117T134626SQUARE.png" group-title="Filme" tvg-chno="4859",Moviedome Family
@@ -1825,6 +1846,9 @@ https://jmp2.uk/stvp-CHBA330002991
 
 #EXTINF:-1 tvg-id="DEBD30000014M" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD30000014M_20260707T050019SQUARE.png" group-title="Entertainment" tvg-chno="4005",Bares für Rares
 https://jmp2.uk/stvp-DEBD30000014M
+
+#EXTINF:-1 tvg-id="DEBD3700001YD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD3700001YD_20261006T034625SQUARE.png" group-title="Entertainment" tvg-chno="4009",X-MAS Mix
+https://jmp2.uk/stvp-DEBD3700001YD
 
 #EXTINF:-1 tvg-id="DE4800003M6" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE4800003M6_20260915T035307SQUARE.png" group-title="Entertainment" tvg-chno="4069",Hochzeit auf den ersten Blick
 https://jmp2.uk/stvp-DE4800003M6
@@ -2126,17 +2150,14 @@ https://jmp2.uk/stvp-DE200003PX
 #EXTINF:-1 tvg-id="DE1200009JX" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1200009JX_20260428T031501SQUARE.png" group-title="Food & Travel" tvg-chno="4515",ZDF kocht!
 https://jmp2.uk/stvp-DE1200009JX
 
-#EXTINF:-1 tvg-id="DE2900002Z8" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2900002Z8_20261006T034548SQUARE.png" group-title="Food & Travel" tvg-chno="4517",BBC Food
-https://jmp2.uk/stvp-DE2900002Z8
-
 #EXTINF:-1 tvg-id="DEAK0500439A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK0500439A_20250107T023921SQUARE.png" group-title="Food & Travel" tvg-chno="4519",Just Cooking
 https://jmp2.uk/stvp-DEAK0500439A
 
 #EXTINF:-1 tvg-id="DEBA3300001L9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300001L9_20250107T023953SQUARE.png" group-title="Food & Travel" tvg-chno="4521",Pluto TV Food
 https://jmp2.uk/stvp-DEBA3300001L9
 
-#EXTINF:-1 tvg-id="DE2900001W0" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2900001W0_20261006T034555SQUARE.png" group-title="Food & Travel" tvg-chno="4531",BBC Travel
-https://jmp2.uk/stvp-DE2900001W0
+#EXTINF:-1 tvg-id="DE2800003GT" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2800003GT_20261006T034619SQUARE.png" group-title="Food & Travel" tvg-chno="4526",Stadt Land Kunst
+https://jmp2.uk/stvp-DE2800003GT
 
 #EXTINF:-1 tvg-id="DEAJ0500422A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ0500422A_20250107T024224SQUARE.png" group-title="Food & Travel" tvg-chno="4533",Xplore
 https://jmp2.uk/stvp-DEAJ0500422A
@@ -2258,7 +2279,7 @@ https://jmp2.uk/stvp-DE1900003LE
 #EXTINF:-1 tvg-id="DE1800009MU" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1800009MU_20260528T054456SQUARE.png" group-title="Musik & Ambient" tvg-chno="4765",Rainy Day Vibes
 https://jmp2.uk/stvp-DE1800009MU
 
-#EXTINF:-1 tvg-id="DE1800012WI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1800012WI_20261006T034537SQUARE.png" group-title="Musik & Ambient" tvg-chno="4766",Spring Vibes
+#EXTINF:-1 tvg-id="DE1800012WI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1800012WI_20261006T034537SQUARE.png" group-title="Musik & Ambient" tvg-chno="4766",Fall Vibes
 https://jmp2.uk/stvp-DE1800012WI
 
 #EXTINF:-1 tvg-id="DE18000103J" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE18000103J_20260528T054429SQUARE.png" group-title="Musik & Ambient" tvg-chno="4767",Island Vibes
@@ -2303,6 +2324,9 @@ https://jmp2.uk/stvp-DE2200010WT
 #EXTINF:-1 tvg-id="DE4100002KC" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE4100002KC_20260120T031246SQUARE.png" group-title="Kids" tvg-chno="4808",Rabbids Invasion
 https://jmp2.uk/stvp-DE4100002KC
 
+#EXTINF:-1 tvg-id="DE1300002E8" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1300002E8_20261006T034612SQUARE.png" group-title="Kids" tvg-chno="4810",Fix&Foxi und Freunde
+https://jmp2.uk/stvp-DE1300002E8
+
 #EXTINF:-1 tvg-id="DE2100004L7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2100004L7_20260901T053516SQUARE.png" group-title="Kids" tvg-chno="4818",Barbie & Friends
 https://jmp2.uk/stvp-DE2100004L7
 
@@ -2318,7 +2342,7 @@ https://jmp2.uk/stvp-DEAJ700004BT
 #EXTINF:-1 tvg-id="DEAJ700002N8" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ700002N8_20250603T004850SQUARE.png" group-title="Kids" tvg-chno="4829",Nickelodeon Toons
 https://jmp2.uk/stvp-DEAJ700002N8
 
-#EXTINF:-1 tvg-id="DE26000085Y" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE26000085Y_20261006T143753SQUARE.png" group-title="Filme" tvg-chno="4852",Family - Rakuten TV
+#EXTINF:-1 tvg-id="DE26000085Y" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE26000085Y_20261006T143753SQUARE.png" group-title="Filme" tvg-chno="4852",100% Weihnachten - Rakuten TV
 https://jmp2.uk/stvp-DE26000085Y
 
 #EXTINF:-1 tvg-id="DEBA3300040CR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300040CR_20250120T075816SQUARE.png" group-title="Filme" tvg-chno="4859",Moviedome Family
@@ -2831,7 +2855,7 @@ https://jmp2.uk/stvp-ES1900003JT
 #EXTINF:-1 tvg-id="ES1800006ZS" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1800006ZS_20260528T055835SQUARE.png" group-title="Música & ambiente" tvg-chno="4765",Rainy Day Vibes
 https://jmp2.uk/stvp-ES1800006ZS
 
-#EXTINF:-1 tvg-id="ES1800009VX" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1800009VX_20261006T033907SQUARE.png" group-title="Música & ambiente" tvg-chno="4766",Spring Vibes
+#EXTINF:-1 tvg-id="ES1800009VX" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1800009VX_20261006T033907SQUARE.png" group-title="Música & ambiente" tvg-chno="4766",Fall Vibes
 https://jmp2.uk/stvp-ES1800009VX
 
 #EXTINF:-1 tvg-id="ES1800007GH" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1800007GH_20260528T055756SQUARE.png" group-title="Música & ambiente" tvg-chno="4767",Island Vibes
@@ -2872,6 +2896,9 @@ https://jmp2.uk/stvp-ES1400002CJ
 
 #EXTINF:-1 tvg-id="ES12000024R" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES12000024R_20260901T054105SQUARE.png" group-title="Documentales" tvg-chno="4416",Historia y Vida
 https://jmp2.uk/stvp-ES12000024R
+
+#EXTINF:-1 tvg-id="ES1800005H2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1800005H2_20261006T033919SQUARE.png" group-title="Documentales" tvg-chno="4418",BBC Historia
+https://jmp2.uk/stvp-ES1800005H2
 
 #EXTINF:-1 tvg-id="ESBD1400003QN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1400003QN_20260210T035856SQUARE.png" group-title="Documentales" tvg-chno="4420",Royalworld - Nobleza y Dinastias
 https://jmp2.uk/stvp-ESBD1400003QN
@@ -3020,9 +3047,6 @@ https://jmp2.uk/stvp-FR2100003H7
 #EXTINF:-1 tvg-id="FR3600001R1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3600001R1_20260707T051816SQUARE.png" group-title="Séries TV" tvg-chno="4005",Un si grand soleil
 https://jmp2.uk/stvp-FR3600001R1
 
-#EXTINF:-1 tvg-id="FRBD37000020Y" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD37000020Y_20261006T034046SQUARE.png" group-title="Séries TV" tvg-chno="4007",Plus belle la vie
-https://jmp2.uk/stvp-FRBD37000020Y
-
 #EXTINF:-1 tvg-id="FR2900001UF" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2900001UF_20250916T003553SQUARE.png" group-title="Séries TV" tvg-chno="4239",BBC Series
 https://jmp2.uk/stvp-FR2900001UF
 
@@ -3077,8 +3101,8 @@ https://jmp2.uk/stvp-FR360000680
 #EXTINF:-1 tvg-id="FR4000001TX" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR4000001TX_20251202T002642SQUARE.png" group-title="Séries TV" tvg-chno="4277",Jodha Akbar
 https://jmp2.uk/stvp-FR4000001TX
 
-#EXTINF:-1 tvg-id="FR3600007GW" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3600007GW_20261006T034032SQUARE.png" group-title="Crime" tvg-chno="4291",Alerte Cobra
-https://jmp2.uk/stvp-FR3600007GW
+#EXTINF:-1 tvg-id="FRBD37000020Y" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD37000020Y_20261006T034046SQUARE.png" group-title="Séries TV" tvg-chno="4998",Plus belle la vie
+https://jmp2.uk/stvp-FRBD37000020Y
 
 #EXTINF:-1 tvg-id="FR1400002XF" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1400002XF_20251111T012047SQUARE.png" group-title="Crime" tvg-chno="4293",Faites entrer l'accusé
 https://jmp2.uk/stvp-FR1400002XF
@@ -3103,6 +3127,9 @@ https://jmp2.uk/stvp-FR600002ZR
 
 #EXTINF:-1 tvg-id="FRBD39000064E" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD39000064E_20251118T015629SQUARE.png" group-title="Crime" tvg-chno="4310",100% Docs Crime
 https://jmp2.uk/stvp-FRBD39000064E
+
+#EXTINF:-1 tvg-id="FR3600007GW" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3600007GW_20261006T034032SQUARE.png" group-title="Crime" tvg-chno="4999",Alerte Cobra
+https://jmp2.uk/stvp-FR3600007GW
 
 #EXTINF:-1 tvg-id="FRBD4800001P4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4800001P4_20260310T031732SQUARE.png" group-title="Documentaires" tvg-chno="4354",J'irai dormir chez vous
 https://jmp2.uk/stvp-FRBD4800001P4
@@ -3308,7 +3335,7 @@ https://jmp2.uk/stvp-FR1900002I8
 #EXTINF:-1 tvg-id="FR1800007VM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1800007VM_20260528T055433SQUARE.png" group-title="Musique et ambiance" tvg-chno="4765",Rainy Day Vibes
 https://jmp2.uk/stvp-FR1800007VM
 
-#EXTINF:-1 tvg-id="FR1800010TC" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1800010TC_20261006T034019SQUARE.png" group-title="Musique et ambiance" tvg-chno="4766",Spring Vibes
+#EXTINF:-1 tvg-id="FR1800010TC" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1800010TC_20261006T034019SQUARE.png" group-title="Musique et ambiance" tvg-chno="4766",Fall Vibes
 https://jmp2.uk/stvp-FR1800010TC
 
 #EXTINF:-1 tvg-id="FR1800008DB" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1800008DB_20260528T055349SQUARE.png" group-title="Musique et ambiance" tvg-chno="4767",Island Vibes
@@ -3437,17 +3464,20 @@ https://jmp2.uk/stvp-FR3700001AG
 #EXTINF:-1 tvg-id="FR2600002X9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600002X9_20260707T051704SQUARE.png" group-title="Cinéma" tvg-chno="4987",Films d'action - Rakuten TV
 https://jmp2.uk/stvp-FR2600002X9
 
+#EXTINF:-1 tvg-id="FR1200001N2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1200001N2_20261006T034053SQUARE.png" group-title="Cinéma" tvg-chno="4989",Top Action
+https://jmp2.uk/stvp-FR1200001N2
+
 #EXTINF:-1 tvg-id="FR1800003VF" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1800003VF_20260707T051611SQUARE.png" group-title="Cinéma" tvg-chno="4991",Shadowz
 https://jmp2.uk/stvp-FR1800003VF
 
 #EXTINF:-1 tvg-id="FR4000002JN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR4000002JN_20260721T035919SQUARE.png" group-title="Cinéma" tvg-chno="4993",Shark TV
 https://jmp2.uk/stvp-FR4000002JN
 
-#EXTINF:-1 tvg-id="FR1200001N2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1200001N2_20261006T034053SQUARE.png" group-title="Cinéma" tvg-chno="4998",Top Action
-https://jmp2.uk/stvp-FR1200001N2
-
-#EXTINF:-1 tvg-id="FR370000288" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR370000288_20261006T034039SQUARE.png" group-title="Cinéma" tvg-chno="4999",Box Office Action
+#EXTINF:-1 tvg-id="FR370000288" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR370000288_20261006T034039SQUARE.png" group-title="Cinéma" tvg-chno="4997",Box Office Action
 https://jmp2.uk/stvp-FR370000288
+
+#EXTINF:-1 tvg-id="GBBC400000345" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC400000345_20261006T034143SQUARE.png" group-title="Entertainment" tvg-chno="4009",Festive Hub
+https://jmp2.uk/stvp-GBBC400000345
 
 #EXTINF:-1 tvg-id="GBBD3100003J5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3100003J5_20251013T054433SQUARE.png" group-title="Entertainment" tvg-chno="4033",U&Laughs
 https://jmp2.uk/stvp-GBBD3100003J5
@@ -3655,6 +3685,9 @@ https://jmp2.uk/stvp-GB900003KR
 
 #EXTINF:-1 tvg-id="GB4000008O5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB4000008O5_20251013T054359SQUARE.png" group-title="TV Series" tvg-chno="4261",Mr Bean Live Action
 https://jmp2.uk/stvp-GB4000008O5
+
+#EXTINF:-1 tvg-id="GB2400012R9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2400012R9_20261006T034154SQUARE.png" group-title="TV Series" tvg-chno="4282",Red Rock
+https://jmp2.uk/stvp-GB2400012R9
 
 #EXTINF:-1 tvg-id="GBBD4100006KV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD4100006KV_20260428T031429SQUARE.png" group-title="Crime" tvg-chno="4292",Criminal Confessions
 https://jmp2.uk/stvp-GBBD4100006KV
@@ -4043,7 +4076,7 @@ https://jmp2.uk/stvp-GB1900005OD
 #EXTINF:-1 tvg-id="GB1800010BQ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1800010BQ_20260528T054159SQUARE.png" group-title="Music & Ambient" tvg-chno="4765",Rainy Day Vibes
 https://jmp2.uk/stvp-GB1800010BQ
 
-#EXTINF:-1 tvg-id="GB1800013A2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1800013A2_20261006T034138SQUARE.png" group-title="Music & Ambient" tvg-chno="4766",Spring Vibes
+#EXTINF:-1 tvg-id="GB1800013A2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1800013A2_20261006T034138SQUARE.png" group-title="Music & Ambient" tvg-chno="4766",Fall Vibes
 https://jmp2.uk/stvp-GB1800013A2
 
 #EXTINF:-1 tvg-id="GB1800011SF" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1800011SF_20260528T054108SQUARE.png" group-title="Music & Ambient" tvg-chno="4767",Island Vibes
@@ -4115,7 +4148,7 @@ https://jmp2.uk/stvp-GB4200002K6
 #EXTINF:-1 tvg-id="GB1900006O6" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1900006O6_20260901T102431SQUARE.png" group-title="Kids" tvg-chno="4818",Barbie & Friends
 https://jmp2.uk/stvp-GB1900006O6
 
-#EXTINF:-1 tvg-id="GB2600017PX" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600017PX_20261006T143211SQUARE.png" group-title="Movies" tvg-chno="4852",Family - Rakuten TV
+#EXTINF:-1 tvg-id="GB2600017PX" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600017PX_20261006T143211SQUARE.png" group-title="Movies" tvg-chno="4852",100% Christmas - Rakuten TV
 https://jmp2.uk/stvp-GB2600017PX
 
 #EXTINF:-1 tvg-id="GBBC900007Q5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900007Q5_20251125T095955SQUARE.png" group-title="Movies" tvg-chno="4866",Great! Movies
@@ -4247,20 +4280,14 @@ https://jmp2.uk/stvp-IN39000282A
 #EXTINF:-1 tvg-id="IN400061DB" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN400061DB_20260623T015348SQUARE.png" group-title="Movies" tvg-chno="1164",NH Tamil Gold
 https://jmp2.uk/stvp-IN400061DB
 
-#EXTINF:-1 tvg-id="IN46000184H" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000184H_20261006T042400SQUARE.png" group-title="Entertainment" tvg-chno="1000",Kings Of Comedy
-https://jmp2.uk/stvp-IN46000184H
-
-#EXTINF:-1 tvg-id="IN3900027S7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900027S7_20261006T042350SQUARE.png" group-title="Entertainment" tvg-chno="1001",Aashirwad TV
+#EXTINF:-1 tvg-id="IN3900027S7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900027S7_20261006T042350SQUARE.png" group-title="Entertainment" tvg-chno="1000",Aashirwad TV
 https://jmp2.uk/stvp-IN3900027S7
+
+#EXTINF:-1 tvg-id="IN46000184H" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000184H_20261006T042400SQUARE.png" group-title="Entertainment" tvg-chno="1001",Kings Of Comedy
+https://jmp2.uk/stvp-IN46000184H
 
 #EXTINF:-1 tvg-id="IN2100002GD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2100002GD_20260929T041432SQUARE.png" group-title="Entertainment" tvg-chno="1004",Zee Comedy Nation
 https://jmp2.uk/stvp-IN2100002GD
-
-#EXTINF:-1 tvg-id="IN3000010V5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3000010V5_20261006T042406SQUARE.png" group-title="Entertainment" tvg-chno="1006",Mr. Bean Animated
-https://jmp2.uk/stvp-IN3000010V5
-
-#EXTINF:-1 tvg-id="IN800016BA" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN800016BA_20261006T042355SQUARE.png" group-title="Entertainment" tvg-chno="1009",JOJO TV
-https://jmp2.uk/stvp-IN800016BA
 
 #EXTINF:-1 tvg-id="IN3600006RT" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3600006RT_20260623T014707SQUARE.png" group-title="Entertainment" tvg-chno="1204",Comedy King
 https://jmp2.uk/stvp-IN3600006RT
@@ -4325,6 +4352,9 @@ https://jmp2.uk/stvp-IN390002534
 #EXTINF:-1 tvg-id="INBA5100029JI" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA5100029JI_20260623T010600SQUARE.png" group-title="Entertainment" tvg-chno="1272",The Pet Collective
 https://jmp2.uk/stvp-INBA5100029JI
 
+#EXTINF:-1 tvg-id="IN3000010V5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3000010V5_20261006T042406SQUARE.png" group-title="Entertainment" tvg-chno="1274",Mr. Bean Animated
+https://jmp2.uk/stvp-IN3000010V5
+
 #EXTINF:-1 tvg-id="INBD13000043W" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD13000043W_20260623T013612SQUARE.png" group-title="Entertainment" tvg-chno="1276",Animax
 https://jmp2.uk/stvp-INBD13000043W
 
@@ -4351,6 +4381,9 @@ https://jmp2.uk/stvp-IN4000635D
 
 #EXTINF:-1 tvg-id="IN400064VZ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN400064VZ_20260623T015554SQUARE.png" group-title="Entertainment" tvg-chno="1314",Punjabi Shorts
 https://jmp2.uk/stvp-IN400064VZ
+
+#EXTINF:-1 tvg-id="IN800016BA" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN800016BA_20261006T042355SQUARE.png" group-title="Entertainment" tvg-chno="1325",JOJO TV
+https://jmp2.uk/stvp-IN800016BA
 
 #EXTINF:-1 tvg-id="IN2100007QM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2100007QM_20260623T014701SQUARE.png" group-title="Entertainment" tvg-chno="1330",Cine Jomjomat
 https://jmp2.uk/stvp-IN2100007QM
@@ -4466,6 +4499,15 @@ https://jmp2.uk/stvp-INBA5100021WP
 #EXTINF:-1 tvg-id="INBA5100022O4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA5100022O4_20260623T011857SQUARE.png" group-title="English News" tvg-chno="1476",Bloomberg Originals
 https://jmp2.uk/stvp-INBA5100022O4
 
+#EXTINF:-1 tvg-id="IN4000006CF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000006CF_20261006T042343SQUARE.png" group-title="Regional News" tvg-chno="1006",ABP Ananda
+https://jmp2.uk/stvp-IN4000006CF
+
+#EXTINF:-1 tvg-id="INBD2500016OR" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD2500016OR_20261006T042413SQUARE.png" group-title="Regional News" tvg-chno="1007",R Bangla
+https://jmp2.uk/stvp-INBD2500016OR
+
+#EXTINF:-1 tvg-id="INBD1300012GJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300012GJ_20261006T042421SQUARE.png" group-title="Regional News" tvg-chno="1008",TV9 Gujarati
+https://jmp2.uk/stvp-INBD1300012GJ
+
 #EXTINF:-1 tvg-id="IN4000003V7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000003V7_20260929T041400SQUARE.png" group-title="Regional News" tvg-chno="1482",TV9 Marathi
 https://jmp2.uk/stvp-IN4000003V7
 
@@ -4490,9 +4532,6 @@ https://jmp2.uk/stvp-INBD2500009DK
 #EXTINF:-1 tvg-id="INBD400010BD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD400010BD_20260623T013536SQUARE.png" group-title="Regional News" tvg-chno="1504",ABP Asmita
 https://jmp2.uk/stvp-INBD400010BD
 
-#EXTINF:-1 tvg-id="INBD1300012GJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300012GJ_20261006T042421SQUARE.png" group-title="Regional News" tvg-chno="1506",TV9 Gujarati
-https://jmp2.uk/stvp-INBD1300012GJ
-
 #EXTINF:-1 tvg-id="INBD2500015H5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD2500015H5_20260623T014635SQUARE.png" group-title="Regional News" tvg-chno="1508",CNBC Bajar
 https://jmp2.uk/stvp-INBD2500015H5
 
@@ -4502,17 +4541,11 @@ https://jmp2.uk/stvp-INBD4000027E
 #EXTINF:-1 tvg-id="INBD2500007PD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD2500007PD_20260623T015715SQUARE.png" group-title="Regional News" tvg-chno="1516",TV9 Bangla
 https://jmp2.uk/stvp-INBD2500007PD
 
-#EXTINF:-1 tvg-id="IN4000006CF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000006CF_20261006T042343SQUARE.png" group-title="Regional News" tvg-chno="1518",ABP Ananda
-https://jmp2.uk/stvp-IN4000006CF
-
 #EXTINF:-1 tvg-id="INBD400003GE" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD400003GE_20260623T013259SQUARE.png" group-title="Regional News" tvg-chno="1520",Zee 24 Ghanta
 https://jmp2.uk/stvp-INBD400003GE
 
 #EXTINF:-1 tvg-id="INBD25000081V" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD25000081V_20260623T015422SQUARE.png" group-title="Regional News" tvg-chno="1522",News18 Bangla
 https://jmp2.uk/stvp-INBD25000081V
-
-#EXTINF:-1 tvg-id="INBD2500016OR" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD2500016OR_20261006T042413SQUARE.png" group-title="Regional News" tvg-chno="1524",R Bangla
-https://jmp2.uk/stvp-INBD2500016OR
 
 #EXTINF:-1 tvg-id="INBD2500013ID" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD2500013ID_20260623T015450SQUARE.png" group-title="Regional News" tvg-chno="1530",News18 Odia
 https://jmp2.uk/stvp-INBD2500013ID
@@ -4547,7 +4580,7 @@ https://jmp2.uk/stvp-INBD25000225G
 #EXTINF:-1 tvg-id="IN800012RO" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN800012RO_20260623T013616SQUARE.png" group-title="Regional News" tvg-chno="1564",Asianet News
 https://jmp2.uk/stvp-IN800012RO
 
-#EXTINF:-1 tvg-id="IN38000050P" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000050P_20261006T042338SQUARE.png" group-title="Music" tvg-chno="1008",9XM
+#EXTINF:-1 tvg-id="IN38000050P" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000050P_20261006T042338SQUARE.png" group-title="Music" tvg-chno="1600",9XM
 https://jmp2.uk/stvp-IN38000050P
 
 #EXTINF:-1 tvg-id="IN8000196E" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN8000196E_20260722T004240SQUARE.png" group-title="Music" tvg-chno="1601",Epic Music
@@ -4625,7 +4658,7 @@ https://jmp2.uk/stvp-IN1600002IQ
 #EXTINF:-1 tvg-id="IN30009003" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN30009003_20260623T014742SQUARE.png" group-title="Devotional" tvg-chno="1709",Dharma Live
 https://jmp2.uk/stvp-IN30009003
 
-#EXTINF:-1 tvg-id="IN25000020M" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN25000020M_20261006T042427SQUARE.png" group-title="Kids" tvg-chno="1007",The Jungle Book
+#EXTINF:-1 tvg-id="IN25000020M" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN25000020M_20261006T042427SQUARE.png" group-title="Kids" tvg-chno="1009",The Jungle Book
 https://jmp2.uk/stvp-IN25000020M
 
 #EXTINF:-1 tvg-id="IN4000625P" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000625P_20260623T015004SQUARE.png" group-title="Kids" tvg-chno="1804",Green Gold TV
@@ -4637,7 +4670,7 @@ https://jmp2.uk/stvp-IN4600009F9
 #EXTINF:-1 tvg-id="IN4600007TC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600007TC_20260623T015050SQUARE.png" group-title="Kids" tvg-chno="1812",Hooray Rhymes
 https://jmp2.uk/stvp-IN4600007TC
 
-#EXTINF:-1 tvg-id="IN2500003JW" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2500003JW_20261006T042333SQUARE.png" group-title="Kids" tvg-chno="1816",Powerkids Kartoon Channel
+#EXTINF:-1 tvg-id="IN2500003JW" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2500003JW_20261006T042333SQUARE.png" group-title="Kids" tvg-chno="1816",PowerKids TV
 https://jmp2.uk/stvp-IN2500003JW
 
 #EXTINF:-1 tvg-id="IN4600008T4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600008T4_20260623T015209SQUARE.png" group-title="Kids" tvg-chno="1820",KidDo MATIX
@@ -5285,6 +5318,9 @@ https://jmp2.uk/stvp-IT39000028R
 #EXTINF:-1 tvg-id="IT1700002R5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT1700002R5_20251028T011527SQUARE.png" group-title="Musica e Ambient" tvg-chno="4724",NEW KPOP
 https://jmp2.uk/stvp-IT1700002R5
 
+#EXTINF:-1 tvg-id="IT3000019ZM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3000019ZM_20261006T034258SQUARE.png" group-title="Musica e Ambient" tvg-chno="4736",Concerto
+https://jmp2.uk/stvp-IT3000019ZM
+
 #EXTINF:-1 tvg-id="IT2500001IF" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2500001IF_20241022T051559SQUARE.png" group-title="Musica e Ambient" tvg-chno="4740",Cool Summer Channel
 https://jmp2.uk/stvp-IT2500001IF
 
@@ -5318,7 +5354,7 @@ https://jmp2.uk/stvp-IT1900006GN
 #EXTINF:-1 tvg-id="IT18000058K" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT18000058K_20260528T053623SQUARE.png" group-title="Musica e Ambient" tvg-chno="4765",Rainy Day Vibes
 https://jmp2.uk/stvp-IT18000058K
 
-#EXTINF:-1 tvg-id="IT1800008RR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT1800008RR_20261006T034241SQUARE.png" group-title="Musica e Ambient" tvg-chno="4766",Spring Vibes
+#EXTINF:-1 tvg-id="IT1800008RR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT1800008RR_20261006T034241SQUARE.png" group-title="Musica e Ambient" tvg-chno="4766",Fall Vibes
 https://jmp2.uk/stvp-IT1800008RR
 
 #EXTINF:-1 tvg-id="IT1800006P9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT1800006P9_20260528T053554SQUARE.png" group-title="Musica e Ambient" tvg-chno="4767",Island Vibes
@@ -5381,47 +5417,32 @@ https://jmp2.uk/stvp-KRBB500044GP
 #EXTINF:-1 tvg-id="KRBD3100006X4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD3100006X4_20260422T014004SQUARE.png" group-title="뉴스" tvg-chno="795",글로벌 뉴스 by LeadStory
 https://jmp2.uk/stvp-KRBD3100006X4
 
-#EXTINF:-1 tvg-id="KR3200005TI" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR3200005TI_20261006T043021SQUARE.png" group-title="예능" tvg-chno="505",조조캠핑
-https://jmp2.uk/stvp-KR3200005TI
-
-#EXTINF:-1 tvg-id="KRBB4200012PV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200012PV_20261006T042909SQUARE.png" group-title="예능" tvg-chno="506",SBS 정글의 법칙
-https://jmp2.uk/stvp-KRBB4200012PV
-
-#EXTINF:-1 tvg-id="KR400049VH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR400049VH_20261006T043025SQUARE.png" group-title="예능" tvg-chno="507",지구마불 세계여행
-https://jmp2.uk/stvp-KR400049VH
-
-#EXTINF:-1 tvg-id="KR140000508" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR140000508_20261006T043012SQUARE.png" group-title="예능" tvg-chno="508",빠니보틀
-https://jmp2.uk/stvp-KR140000508
-
-#EXTINF:-1 tvg-id="KRBC3200025QG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200025QG_20261006T042943SQUARE.png" group-title="예능" tvg-chno="509",tvN 서진이네 1~2 이어보기
-https://jmp2.uk/stvp-KRBC3200025QG
-
-#EXTINF:-1 tvg-id="KRBD3100002JL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD3100002JL_20261006T042927SQUARE.png" group-title="예능" tvg-chno="510",tvN STORY 이호선 상담소
-https://jmp2.uk/stvp-KRBD3100002JL
-
-#EXTINF:-1 tvg-id="KR5000002QW" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR5000002QW_20261006T043032SQUARE.png" group-title="예능" tvg-chno="511",쯔양
-https://jmp2.uk/stvp-KR5000002QW
-
-#EXTINF:-1 tvg-id="KRBC32000156C" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000156C_20261006T042938SQUARE.png" group-title="예능" tvg-chno="517",tvN 삼시세끼 어촌편 5
-https://jmp2.uk/stvp-KRBC32000156C
-
-#EXTINF:-1 tvg-id="KRBC200002I0" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC200002I0_20261006T042849SQUARE.png" group-title="예능" tvg-chno="518",MBC 나혼자산다
+#EXTINF:-1 tvg-id="KRBC200002I0" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC200002I0_20261006T042849SQUARE.png" group-title="예능" tvg-chno="505",MBC 나혼자산다
 https://jmp2.uk/stvp-KRBC200002I0
 
-#EXTINF:-1 tvg-id="KRBD2700002IV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2700002IV_20261006T042919SQUARE.png" group-title="예능" tvg-chno="520",TV조선 미스트롯4
-https://jmp2.uk/stvp-KRBD2700002IV
-
-#EXTINF:-1 tvg-id="KR700006WZ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR700006WZ_20261006T042951SQUARE.png" group-title="예능" tvg-chno="522",tvN 언니네 산지직송 전 시즌 이어보기
+#EXTINF:-1 tvg-id="KR700006WZ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR700006WZ_20261006T042951SQUARE.png" group-title="예능" tvg-chno="506",tvN 언니네 산지직송 전 시즌 이어보기
 https://jmp2.uk/stvp-KR700006WZ
 
-#EXTINF:-1 tvg-id="KRBC8000144F" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC8000144F_20261006T042856SQUARE.png" group-title="예능" tvg-chno="524",Mnet 스트릿 월드 파이터: 디렉터스 워
-https://jmp2.uk/stvp-KRBC8000144F
+#EXTINF:-1 tvg-id="KRBC4100001LY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4100001LY_20261006T043043SQUARE.png" group-title="예능" tvg-chno="507",채널A 나만 믿고 따라와 도시어부
+https://jmp2.uk/stvp-KRBC4100001LY
 
-#EXTINF:-1 tvg-id="KRBD5200001G8" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD5200001G8_20261006T042823SQUARE.png" group-title="예능" tvg-chno="525",JTBC 내 친구의 집은 어디인가
-https://jmp2.uk/stvp-KRBD5200001G8
+#EXTINF:-1 tvg-id="KR400049VH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR400049VH_20261006T043025SQUARE.png" group-title="예능" tvg-chno="508",지구마불 세계여행
+https://jmp2.uk/stvp-KR400049VH
 
-#EXTINF:-1 tvg-id="KR400005KB" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR400005KB_20261006T042842SQUARE.png" group-title="예능" tvg-chno="526",JTBC 한끼줍쇼
-https://jmp2.uk/stvp-KR400005KB
+#EXTINF:-1 tvg-id="KR5000002QW" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR5000002QW_20261006T043032SQUARE.png" group-title="예능" tvg-chno="509",쯔양
+https://jmp2.uk/stvp-KR5000002QW
+
+#EXTINF:-1 tvg-id="KRBC3200025QG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200025QG_20261006T042943SQUARE.png" group-title="예능" tvg-chno="510",tvN 서진이네 1~2 이어보기
+https://jmp2.uk/stvp-KRBC3200025QG
+
+#EXTINF:-1 tvg-id="KRBC32000156C" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000156C_20261006T042938SQUARE.png" group-title="예능" tvg-chno="516",tvN 삼시세끼 어촌편 5
+https://jmp2.uk/stvp-KRBC32000156C
+
+#EXTINF:-1 tvg-id="KRBB4200012PV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200012PV_20261006T042909SQUARE.png" group-title="예능" tvg-chno="517",SBS 정글의 법칙
+https://jmp2.uk/stvp-KRBB4200012PV
+
+#EXTINF:-1 tvg-id="KR40000410" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR40000410_20261006T042837SQUARE.png" group-title="예능" tvg-chno="520",JTBC 트래블러
+https://jmp2.uk/stvp-KR40000410
 
 #EXTINF:-1 tvg-id="KRBB5000069BS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000069BS_20260422T012440SQUARE.png" group-title="예능" tvg-chno="541",MBC 무한도전
 https://jmp2.uk/stvp-KRBB5000069BS
@@ -5432,8 +5453,14 @@ https://jmp2.uk/stvp-KRBB4200002MM
 #EXTINF:-1 tvg-id="KRBC3200032ZM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200032ZM_20260623T003301SQUARE.png" group-title="예능" tvg-chno="543",tvN 뿅뿅 지구오락실 전 시즌 모아보기
 https://jmp2.uk/stvp-KRBC3200032ZM
 
+#EXTINF:-1 tvg-id="KR140000508" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR140000508_20261006T043012SQUARE.png" group-title="예능" tvg-chno="544",빠니보틀
+https://jmp2.uk/stvp-KR140000508
+
 #EXTINF:-1 tvg-id="KRBC4400003SD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4400003SD_20260422T013634SQUARE.png" group-title="예능" tvg-chno="545",KBS 1박2일 시즌1
 https://jmp2.uk/stvp-KRBC4400003SD
+
+#EXTINF:-1 tvg-id="KR3200005TI" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR3200005TI_20261006T043021SQUARE.png" group-title="예능" tvg-chno="546",조조캠핑
+https://jmp2.uk/stvp-KR3200005TI
 
 #EXTINF:-1 tvg-id="KR2200008I8" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2200008I8_20260901T054111SQUARE.png" group-title="예능" tvg-chno="547",곽튜브
 https://jmp2.uk/stvp-KR2200008I8
@@ -5468,11 +5495,14 @@ https://jmp2.uk/stvp-KRBB50000711L
 #EXTINF:-1 tvg-id="KR16000047N" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR16000047N_20260728T033518SQUARE.png" group-title="예능" tvg-chno="557",자취남
 https://jmp2.uk/stvp-KR16000047N
 
-#EXTINF:-1 tvg-id="KRBC4100001LY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4100001LY_20261006T043043SQUARE.png" group-title="예능" tvg-chno="558",채널A 나만 믿고 따라와 도시어부
-https://jmp2.uk/stvp-KRBC4100001LY
+#EXTINF:-1 tvg-id="KRBD3100002JL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD3100002JL_20261006T042927SQUARE.png" group-title="예능" tvg-chno="558",tvN STORY 이호선 상담소
+https://jmp2.uk/stvp-KRBD3100002JL
 
 #EXTINF:-1 tvg-id="KRBC50000218R" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC50000218R_20260422T013622SQUARE.png" group-title="예능" tvg-chno="559",JTBC 톡파원 25시
 https://jmp2.uk/stvp-KRBC50000218R
+
+#EXTINF:-1 tvg-id="KRBD2700002IV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2700002IV_20261006T042919SQUARE.png" group-title="예능" tvg-chno="560",TV조선 미스트롯4
+https://jmp2.uk/stvp-KRBD2700002IV
 
 #EXTINF:-1 tvg-id="KR4800003H0" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR4800003H0_20260422T012528SQUARE.png" group-title="예능" tvg-chno="561",MBC 구해줘홈즈
 https://jmp2.uk/stvp-KR4800003H0
@@ -5522,14 +5552,17 @@ https://jmp2.uk/stvp-KRBC5000019FB
 #EXTINF:-1 tvg-id="KR700003L9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR700003L9_20260728T033403SQUARE.png" group-title="예능" tvg-chno="576",KBS 개그콘서트
 https://jmp2.uk/stvp-KR700003L9
 
-#EXTINF:-1 tvg-id="KR40000410" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR40000410_20261006T042837SQUARE.png" group-title="예능" tvg-chno="577",JTBC 트래블러
-https://jmp2.uk/stvp-KR40000410
+#EXTINF:-1 tvg-id="KRBC8000144F" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC8000144F_20261006T042856SQUARE.png" group-title="예능" tvg-chno="577",Mnet 스트릿 월드 파이터: 디렉터스 워
+https://jmp2.uk/stvp-KRBC8000144F
 
 #EXTINF:-1 tvg-id="KRBD27000069Q" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD27000069Q_20260812T044724SQUARE.png" group-title="예능" tvg-chno="578",TV조선 사랑의 콜센타
 https://jmp2.uk/stvp-KRBD27000069Q
 
 #EXTINF:-1 tvg-id="KR400006MW" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR400006MW_20260623T003206SQUARE.png" group-title="예능" tvg-chno="579",JTBC 냉장고를 부탁해
 https://jmp2.uk/stvp-KR400006MW
+
+#EXTINF:-1 tvg-id="KRBD5200001G8" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD5200001G8_20261006T042823SQUARE.png" group-title="예능" tvg-chno="580",JTBC 내 친구의 집은 어디인가
+https://jmp2.uk/stvp-KRBD5200001G8
 
 #EXTINF:-1 tvg-id="KRBC32000261J" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000261J_20260422T013933SQUARE.png" group-title="예능" tvg-chno="581",tvN 놀라운 토요일 하이라이트
 https://jmp2.uk/stvp-KRBC32000261J
@@ -5558,14 +5591,14 @@ https://jmp2.uk/stvp-KRBC3200008M6
 #EXTINF:-1 tvg-id="KRBB4200008PR" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200008PR_20260422T013833SQUARE.png" group-title="예능" tvg-chno="589",SBS 신발 벗고 돌싱포맨
 https://jmp2.uk/stvp-KRBB4200008PR
 
-#EXTINF:-1 tvg-id="KRBD4300003MW" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD4300003MW_20261006T042833SQUARE.png" group-title="예능" tvg-chno="590",JTBC 크라임씬3
-https://jmp2.uk/stvp-KRBD4300003MW
-
 #EXTINF:-1 tvg-id="KR1400009B8" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR1400009B8_20260610T004239SQUARE.png" group-title="예능" tvg-chno="591",유병재
 https://jmp2.uk/stvp-KR1400009B8
 
 #EXTINF:-1 tvg-id="KR1800002Q7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR1800002Q7_20260812T044634SQUARE.png" group-title="예능" tvg-chno="592",비보티비
 https://jmp2.uk/stvp-KR1800002Q7
+
+#EXTINF:-1 tvg-id="KR400005KB" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR400005KB_20261006T042842SQUARE.png" group-title="예능" tvg-chno="593",JTBC 한끼줍쇼
+https://jmp2.uk/stvp-KR400005KB
 
 #EXTINF:-1 tvg-id="KRBC4000002ME" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4000002ME_20260422T013925SQUARE.png" group-title="예능" tvg-chno="594",iHQ 돈쭐내러 왔습니다
 https://jmp2.uk/stvp-KRBC4000002ME
@@ -5612,35 +5645,23 @@ https://jmp2.uk/stvp-KR2400001TI
 #EXTINF:-1 tvg-id="KR3200003RR" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR3200003RR_20260422T014111SQUARE.png" group-title="예능" tvg-chno="798",코난 오브라이언 쇼
 https://jmp2.uk/stvp-KR3200003RR
 
-#EXTINF:-1 tvg-id="KRBC3200013UR" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200013UR_20261006T042957SQUARE.png" group-title="드라마" tvg-chno="512",tvN 응답하라 전 시즌 모아보기
-https://jmp2.uk/stvp-KRBC3200013UR
+#EXTINF:-1 tvg-id="KR400003IP" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR400003IP_20261006T042828SQUARE.png" group-title="드라마" tvg-chno="511",JTBC 무자식 상팔자
+https://jmp2.uk/stvp-KR400003IP
 
-#EXTINF:-1 tvg-id="KRBC3200016H1" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200016H1_20261006T042954SQUARE.png" group-title="드라마" tvg-chno="514",tvN 언젠가는 슬기로울 전공의생활
+#EXTINF:-1 tvg-id="KRBC3200016H1" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200016H1_20261006T042954SQUARE.png" group-title="드라마" tvg-chno="513",tvN 언젠가는 슬기로울 전공의생활
 https://jmp2.uk/stvp-KRBC3200016H1
 
-#EXTINF:-1 tvg-id="KRBC3500014ZH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500014ZH_20261006T043004SQUARE.png" group-title="드라마" tvg-chno="515",고독한 미식가
-https://jmp2.uk/stvp-KRBC3500014ZH
-
-#EXTINF:-1 tvg-id="KR400003IP" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR400003IP_20261006T042828SQUARE.png" group-title="드라마" tvg-chno="516",JTBC 무자식 상팔자
-https://jmp2.uk/stvp-KR400003IP
+#EXTINF:-1 tvg-id="KRBC3200013UR" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200013UR_20261006T042957SQUARE.png" group-title="드라마" tvg-chno="518",tvN 응답하라 전 시즌 모아보기
+https://jmp2.uk/stvp-KRBC3200013UR
 
 #EXTINF:-1 tvg-id="KRBB420000180" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB420000180_20260901T053937SQUARE.png" group-title="드라마" tvg-chno="519",SBS 모범택시
 https://jmp2.uk/stvp-KRBB420000180
 
-#EXTINF:-1 tvg-id="KRBC3200018FU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200018FU_20261006T042948SQUARE.png" group-title="드라마" tvg-chno="521",tvN 서초동
-https://jmp2.uk/stvp-KRBC3200018FU
-
-#EXTINF:-1 tvg-id="KR2000011GA" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2000011GA_20261006T043018SQUARE.png" group-title="드라마" tvg-chno="523",유어 아너
-https://jmp2.uk/stvp-KR2000011GA
-
-#EXTINF:-1 tvg-id="KRBC800013YF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC800013YF_20261006T042930SQUARE.png" group-title="드라마" tvg-chno="527",tvN 견우와 선녀
-https://jmp2.uk/stvp-KRBC800013YF
-
-#EXTINF:-1 tvg-id="KR7000023Z" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR7000023Z_20261006T042846SQUARE.png" group-title="드라마" tvg-chno="529",KBS 오월의 청춘
-https://jmp2.uk/stvp-KR7000023Z
-
 #EXTINF:-1 tvg-id="KRBC4500003W6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4500003W6_20260422T013943SQUARE.png" group-title="드라마" tvg-chno="622",tvN 슬기로운 의사생활 1~2 이어보기
 https://jmp2.uk/stvp-KRBC4500003W6
+
+#EXTINF:-1 tvg-id="KR7000023Z" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR7000023Z_20261006T042846SQUARE.png" group-title="드라마" tvg-chno="623",KBS 오월의 청춘
+https://jmp2.uk/stvp-KR7000023Z
 
 #EXTINF:-1 tvg-id="KRBC4500002Q4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4500002Q4_20260901T054059SQUARE.png" group-title="드라마" tvg-chno="624",tvN 정년이
 https://jmp2.uk/stvp-KRBC4500002Q4
@@ -5666,6 +5687,9 @@ https://jmp2.uk/stvp-KR2000007LI
 #EXTINF:-1 tvg-id="KR1200002QR" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR1200002QR_20260805T003646SQUARE.png" group-title="드라마" tvg-chno="632",신병 1, 2 몰아보기
 https://jmp2.uk/stvp-KR1200002QR
 
+#EXTINF:-1 tvg-id="KRBC3500014ZH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500014ZH_20261006T043004SQUARE.png" group-title="드라마" tvg-chno="633",고독한 미식가
+https://jmp2.uk/stvp-KRBC3500014ZH
+
 #EXTINF:-1 tvg-id="KR2000010K7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2000010K7_20260623T003332SQUARE.png" group-title="드라마" tvg-chno="634",나의 해리에게
 https://jmp2.uk/stvp-KR2000010K7
 
@@ -5681,8 +5705,14 @@ https://jmp2.uk/stvp-KRBB4200005CK
 #EXTINF:-1 tvg-id="KR200000503" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR200000503_20260623T003414SQUARE.png" group-title="드라마" tvg-chno="638",행복배틀
 https://jmp2.uk/stvp-KR200000503
 
+#EXTINF:-1 tvg-id="KRBC3200018FU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200018FU_20261006T042948SQUARE.png" group-title="드라마" tvg-chno="639",tvN 서초동
+https://jmp2.uk/stvp-KRBC3200018FU
+
 #EXTINF:-1 tvg-id="KRBB5000070U4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000070U4_20260422T013714SQUARE.png" group-title="드라마" tvg-chno="640",MBC 밤에 피는 꽃
 https://jmp2.uk/stvp-KRBB5000070U4
+
+#EXTINF:-1 tvg-id="KR2000011GA" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2000011GA_20261006T043018SQUARE.png" group-title="드라마" tvg-chno="641",유어 아너
+https://jmp2.uk/stvp-KR2000011GA
 
 #EXTINF:-1 tvg-id="KRBB500037T3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500037T3_20260422T013655SQUARE.png" group-title="드라마" tvg-chno="642",MBC every1 별순검
 https://jmp2.uk/stvp-KRBB500037T3
@@ -5692,6 +5722,9 @@ https://jmp2.uk/stvp-KR2000008LX
 
 #EXTINF:-1 tvg-id="KRBB420001572" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB420001572_20260422T013839SQUARE.png" group-title="드라마" tvg-chno="644",SBS 올인
 https://jmp2.uk/stvp-KRBB420001572
+
+#EXTINF:-1 tvg-id="KRBC800013YF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC800013YF_20261006T042930SQUARE.png" group-title="드라마" tvg-chno="645",tvN 견우와 선녀
+https://jmp2.uk/stvp-KRBC800013YF
 
 #EXTINF:-1 tvg-id="KR4500001KZ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR4500001KZ_20260422T012505SQUARE.png" group-title="드라마" tvg-chno="646",MBC HOT CLIP 드라마
 https://jmp2.uk/stvp-KR4500001KZ
@@ -5741,14 +5774,20 @@ https://jmp2.uk/stvp-KR900001U5
 #EXTINF:-1 tvg-id="KRBB500035VF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500035VF_20260422T014114SQUARE.png" group-title="어린이" tvg-chno="711",코코비TV
 https://jmp2.uk/stvp-KRBB500035VF
 
-#EXTINF:-1 tvg-id="KRBC3200021ZA" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200021ZA_20261006T042933SQUARE.png" group-title="시사/교양" tvg-chno="513",tvN 벌거벗은 세계사 요약.zip
+#EXTINF:-1 tvg-id="KRBC3200021ZA" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200021ZA_20261006T042933SQUARE.png" group-title="시사/교양" tvg-chno="512",tvN 벌거벗은 세계사 요약.zip
 https://jmp2.uk/stvp-KRBC3200021ZA
+
+#EXTINF:-1 tvg-id="KRBB4200013L5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200013L5_20261006T042859SQUARE.png" group-title="시사/교양" tvg-chno="514",SBS 순간포착 세상에 이런일이
+https://jmp2.uk/stvp-KRBB4200013L5
+
+#EXTINF:-1 tvg-id="KRBC40000010R" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC40000010R_20261006T042815SQUARE.png" group-title="시사/교양" tvg-chno="515",EBS 극한 직업
+https://jmp2.uk/stvp-KRBC40000010R
+
+#EXTINF:-1 tvg-id="KRBD4300003MW" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD4300003MW_20261006T042833SQUARE.png" group-title="시사/교양" tvg-chno="527",JTBC 차이나는 클라스
+https://jmp2.uk/stvp-KRBD4300003MW
 
 #EXTINF:-1 tvg-id="KRBB420000769" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB420000769_20260422T013756SQUARE.png" group-title="시사/교양" tvg-chno="681",SBS TV 동물농장
 https://jmp2.uk/stvp-KRBB420000769
-
-#EXTINF:-1 tvg-id="KRBC40000010R" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC40000010R_20261006T042815SQUARE.png" group-title="시사/교양" tvg-chno="682",EBS 극한 직업
-https://jmp2.uk/stvp-KRBC40000010R
 
 #EXTINF:-1 tvg-id="KRBC3500017PO" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500017PO_20260422T013735SQUARE.png" group-title="시사/교양" tvg-chno="683",MBN 나는 자연인이다
 https://jmp2.uk/stvp-KRBC3500017PO
@@ -5758,9 +5797,6 @@ https://jmp2.uk/stvp-KRBB4200016TZ
 
 #EXTINF:-1 tvg-id="KRBB4200017HA" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200017HA_20260422T013804SQUARE.png" group-title="시사/교양" tvg-chno="686",SBS 그것이 알고싶다
 https://jmp2.uk/stvp-KRBB4200017HA
-
-#EXTINF:-1 tvg-id="KRBB4200013L5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200013L5_20261006T042859SQUARE.png" group-title="시사/교양" tvg-chno="687",SBS 순간포착 세상에 이런일이
-https://jmp2.uk/stvp-KRBB4200013L5
 
 #EXTINF:-1 tvg-id="KRBB4200018FT" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200018FT_20260422T013822SQUARE.png" group-title="시사/교양" tvg-chno="688",SBS 생활의 달인
 https://jmp2.uk/stvp-KRBB4200018FT
@@ -5813,7 +5849,7 @@ https://jmp2.uk/stvp-KR260000274
 #EXTINF:-1 tvg-id="KR44000010Y" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR44000010Y_20260422T014046SQUARE.png" group-title="스포츠" tvg-chno="822",스크린골프존
 https://jmp2.uk/stvp-KR44000010Y
 
-#EXTINF:-1 tvg-id="KR2000012AI" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2000012AI_20261006T042803SQUARE.png" group-title="영화" tvg-chno="528",Genie 한가위 특집
+#EXTINF:-1 tvg-id="KR2000012AI" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2000012AI_20261006T042803SQUARE.png" group-title="영화" tvg-chno="528",Genie 어워드 특집
 https://jmp2.uk/stvp-KR2000012AI
 
 #EXTINF:-1 tvg-id="KRBC32000191N" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000191N_20260623T003139SQUARE.png" group-title="영화" tvg-chno="742",CJ ENM MOVIE
@@ -5861,7 +5897,7 @@ https://jmp2.uk/stvp-USBC39000171G
 #EXTINF:-1 tvg-id="USBB2200014DK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2200014DK_20260421T133829SQUARE.png" group-title="News & Opinion" tvg-chno="1114",NBC News NOW
 https://jmp2.uk/stvp-USBB2200014DK
 
-#EXTINF:-1 tvg-id="USBA300024TN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300024TN_20260707T035825SQUARE.png" group-title="News & Opinion" tvg-chno="1116",LiveNOW from FOX
+#EXTINF:-1 tvg-id="USBA300024TN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300024TN_20261007T004714SQUARE.png" group-title="News & Opinion" tvg-chno="1116",LiveNOW from FOX
 https://jmp2.uk/stvp-USBA300024TN
 
 #EXTINF:-1 tvg-id="USBD3000073N" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000073N_20260421T133724SQUARE.png" group-title="News & Opinion" tvg-chno="1119",Scripps News
@@ -6103,6 +6139,9 @@ https://jmp2.uk/stvp-US3700007E4
 
 #EXTINF:-1 tvg-id="USBC24000134A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC24000134A_20241014T232251SQUARE.png" group-title="Crime" tvg-chno="1816",Midsomer Murders
 https://jmp2.uk/stvp-USBC24000134A
+
+#EXTINF:-1 tvg-id="US2600027AI" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2600027AI_20261006T051031SQUARE.png" group-title="Crime" tvg-chno="1817",Silent Witness & New Tricks
+https://jmp2.uk/stvp-US2600027AI
 
 #EXTINF:-1 tvg-id="US35000201T" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US35000201T_20260609T035122SQUARE.png" group-title="Crime" tvg-chno="1818",Acorn TV Mysteries
 https://jmp2.uk/stvp-US35000201T
@@ -6379,6 +6418,9 @@ https://jmp2.uk/stvp-US13000081O
 
 #EXTINF:-1 tvg-id="US1300005MK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1300005MK_20250915T233905SQUARE.png" group-title="Home & Food" tvg-chno="2126",PBS Travel
 https://jmp2.uk/stvp-US1300005MK
+
+#EXTINF:-1 tvg-id="US2600028R7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2600028R7_20261006T051026SQUARE.png" group-title="Home & Food" tvg-chno="2128",BBC Travel
+https://jmp2.uk/stvp-US2600028R7
 
 #EXTINF:-1 tvg-id="USBD700017WC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700017WC_20240910T003703SQUARE.png" group-title="Home & Food" tvg-chno="2130",Tastemade Travel
 https://jmp2.uk/stvp-USBD700017WC
@@ -7112,7 +7154,7 @@ https://jmp2.uk/stvp-US2600019IC
 #EXTINF:-1 tvg-id="US4600005ST" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4600005ST_20260421T141742SQUARE.png" group-title="Latino" tvg-chno="3818",CG MMA En Español
 https://jmp2.uk/stvp-US4600005ST
 
-#EXTINF:-1 tvg-id="USBD1700016X9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700016X9_20261006T051008SQUARE.png" group-title="Latino" tvg-chno="3820",Zona TUDN
+#EXTINF:-1 tvg-id="USBD1700016X9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700016X9_20261006T051008SQUARE.png" group-title="Latino" tvg-chno="3820",ViX Deportes 24/7
 https://jmp2.uk/stvp-USBD1700016X9
 
 #EXTINF:-1 tvg-id="US2700004DX" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2700004DX_20260421T142008SQUARE.png" group-title="Latino" tvg-chno="3822",beIN Sports XTRA ñ
@@ -7226,7 +7268,7 @@ https://jmp2.uk/stvp-USBB320000647
 #EXTINF:-1 tvg-id="USBB3200007AK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200007AK_20260512T070259SQUARE.png" group-title="Music" tvg-chno="4319",XITE 90s Throwback
 https://jmp2.uk/stvp-USBB3200007AK
 
-#EXTINF:-1 tvg-id="USBD350003932" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350003932_20261006T051013SQUARE.png" group-title="Music" tvg-chno="4323",XITE Summer
+#EXTINF:-1 tvg-id="USBD350003932" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350003932_20261006T051013SQUARE.png" group-title="Music" tvg-chno="4323",XITE The Beatles
 https://jmp2.uk/stvp-USBD350003932
 
 #EXTINF:-1 tvg-id="USBD3300006O3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300006O3_20260421T141848SQUARE.png" group-title="Music" tvg-chno="4328",XITE Country Today
